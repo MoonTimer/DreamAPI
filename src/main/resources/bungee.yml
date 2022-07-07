@@ -1,0 +1,4 @@
+name: Dremapi
+version: '${project.version}'
+main: me.moontimer.dreampvp.dremapi.DremAPI
+description: DreamAPI
